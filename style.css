@@ -12,7 +12,7 @@ body {
 #counter {
     font-size: 60px;
     font-weight: bold;
-    margin-bottom: 240px;
+    margin-bottom: 180px;
 }
 
 #buttons {
@@ -37,7 +37,7 @@ button {
     width: 100%;
     display: flex;
     justify-content: center;
-    padding: 140px 60px 140px 60px;
+    padding: 140px 140px 140px 140px;
     box-sizing: border-box;
     font-size: 60px;
 
