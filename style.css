@@ -10,7 +10,7 @@ body {
 }
 
 #counter {
-    font-size: 60px;
+    font-size: 120px;
     font-weight: bold;
     margin-bottom: 240px;
 }
@@ -26,8 +26,10 @@ body {
 
 
 button {
-    padding: 100px 140px;
+    padding: 10px 20px;
     font-size: 72px;
-    margin: 16px;
+    margin: 5px;
+    width: 90%;
+    height: 33%;
     cursor: pointer;
 }
