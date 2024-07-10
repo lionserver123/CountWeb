@@ -12,7 +12,7 @@ body {
 #counter {
     font-size: 60px;
     font-weight: bold;
-    margin-bottom: 180px;
+    margin-bottom: 240px;
 }
 
 #buttons {
@@ -25,21 +25,9 @@ body {
 }
 
 
-#resetButtonContainer {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    padding: 0 10px;
-    box-sizing: border-box;
-}
-
 button {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    padding: 140px 140px 140px 140px;
-    box-sizing: border-box;
-    font-size: 60px;
-
+    padding: 100px 140px;
+    font-size: 72px;
+    margin: 16px;
     cursor: pointer;
 }
